@@ -1,0 +1,177 @@
+<pre style="text-align:center;padding:1em;background:rgba(0,0,0,.05);"><em>Revised Date: <strong>{COOKIE_REVISED}</strong></em>
+<span style="font-size:11px;width:100%;white-space:break-spaces;">Unless otherwise stated, this policy is to be assumed to be effective and valid from January 1st, {CURYEAR} to December 31st, {CURYEAR}.</pre>
+
+<p>Please read this document carefully. If you do not understand it or do not agree to be bound by this Privacy Notice, you must immediately cease using or accessing this website.</p>
+ 
+<h4>Overview</h4>
+<p>At [Company Name] your privacy and data are very important to us. Accordingly, we have developed this policy in accordance with recent industry norms, including the General Data Protection Regulation (GDPR) of the European Union and the California Consumer Privacy Act (CCPA), in order for you to understand how we collect, use, communicate, and make use of your personal information. The following outlines our privacy policy.</p>
+
+<p>Our practices strive to implement the following principles:</p>
+<ul>
+	<li><strong>Accountability</strong>: We are responsible for the protection of the personal data you entrust to us.</li>
+	<li><strong>Transparency</strong>: We inform users about the collection and processing of their personal data and use it fairly.</li>
+	<li><strong>Legitimate Use</strong>: We collect and use personal data for specific legitimate purposes. </li>
+	<li><strong>Choice</strong>: We offer users choices regarding the use of their personal data, and honor their preferences for contacting them.</li>
+	<li><strong>Security & Retention</strong>: We use technical, physical, and organizational safeguards to provide an appropriate level of security for the personal data in our control. We retain it as needed for its intended purposes.</li>
+	<li><strong>Third Parties</strong>: We carefully choose vendors, service providers, and other third parties who act as Data Processors (defined below) or who assist us in providing services (more information provided below). Each third party is solely responsible for having their own compliant privacy policies and terms of service.</li>
+</ul>
+
+<h4>Introduction</h4>
+<p><strong>Services</strong></p>
+
+<p>[Company Name] provides a variety of products and services to its Customers.</p>
+
+<h4>Our Platform</h4>
+<p>In connection with the promotion of our products and services, [Company Name] uses and operates the [Company Name] website, provides content, uses social media pages, and other means of interacting with individuals about our products and services, such as emails, newsletters, phone calls, and marketing events. All such methods of promotion and sale of our products and services are designated as the “Platform.”</p>
+
+<h4>Operator</h4>
+<p>The operator of the Platform is:</p>
+<p>
+[Company Name]<br />
+[Company Address]<br />
+[Company Email]<br />
+[Company Phone]
+</p>
+
+<h4>Terms of Use</h4>
+<p>This Privacy Notice is incorporated into our Terms of Use for visitors of our Platform, which is available at {TERMS_URL}.</p>
+
+<h4>Further Definitions:</h4>
+<p>For the purpose of this Privacy Policy:
+<ul>
+	<li><strong>“Visitor”</strong> means an individual who visits the Platform, and who may be seeking information about the Services.</li>
+	<li><strong>“Lead”</strong> means a visitor who has expressed interest in our products or services, for example by filling out a form online to request information, or interacts with us in any manner about our Service, for example in emails, phone calls or through in person interaction.</li>
+	<li><strong>“Reviewer”</strong> means a visitor who has submitted an online review for the purpose of providing feedback to [Company Name] on products and services provided. </li>
+	<li><strong>“Customer”</strong> means an individual or business who has purchased products or services from [Company Name].</li>
+	<li><strong>“User”</strong> or “you” or “your” means a visitor, lead or a customer.</li>
+	<li><strong>“Data Subject”</strong> means a visitor, lead, reviewer, or customer.</li>
+	<li><strong>“Data Controller”</strong> is an organization that collects and controls data from visitors, leads, reviewers and customers.</li>
+	<li><strong>“Data Processor”</strong> is an organization that processes and stores data on behalf of the data controller.</li>
+</ul>
+
+<p>[Company Name] identifies as a Data Controller and also works with third party vendors who identify as Data Processors.</p>
+
+<h4>What information do we collect?</h4>
+<p>When accessing the website at {SITE_URL}, [Company Name] will learn certain information about you during your visit. We collect a variety of information as needed to operate our business, to provide products and services to you, and for the legitimate interest of our business, including for marketing purposes, to the extent permitted by applicable law.</p>
+
+<p>The legal basis for using your personal information includes:
+<ul>
+	<li>Explicit, informed consent via our various online forms</li>
+	<li>Contractual relationship to fulfill your service contract</li>
+	<li>Legitimate interest</li>
+</ul>
+
+<h4>Use of “Cookies”:</h4>
+<p>Similar to other commercial websites, our website utilizes a standard technology called "cookies" and server logs to collect information about how our site is used. To see our full Cookie Policy, {COOKIE_URL}.</p>
+
+<h4>IP Address:</h4>
+<p>An IP address is a number used by your computer every time you connect to the internet. IP addresses are automatically collected by our web server as part of general demographic data known as “traffic data”.</p>
+
+<p>When filling out a form or registering on our website, as appropriate, you may be asked to enter your:
+<ul>
+	<li>Name</li>
+	<li>Email Address</li>
+	<li>Mailing Address</li>
+	<li>Phone Number</li>
+	<li>or other relevant and applicable information.</li>
+</ul>
+When processing payments, if applicable, we DO NOT collect or store any payment details, specifically credit card numbers, on our website. Instead, [Company Name] uses a third party vendor who acts as our data (payment) processor that observes current PCI and GDPR compliance and other standard security measures.</p>
+
+<h4>What do we use your information for?</h4>
+<p>We use your data in a variety of ways, including:</p>
+
+<ul>
+	<li>To personalize your experience on our platform; your information helps us to better respond to your individual needs</li>
+	<li>To process transactions and communicate about your orders; No payment information, such as credit card numbers, is stored on our website or servers</li>
+	<li>To deliver products or services; Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested</li>
+	<li>To improve customer service; your information helps us to more effectively respond to your customer service requests and support needs</li>
+	<li>To improve our website; we continually strive to improve our website offerings based on the information and feedback we receive from you</li>
+	<li>To administer a contest, promotion, survey or other site features; subscribing to marketing material is voluntary and you may choose whether or not to participate and therefore disclose this personal data.</li>
+	<li>To send periodic emails; We may send occasional company news, product or service updates, special offers and promotions, marketing emails, and related product or service information, etc.</li>
+	<li>To send periodic SMS texts; We only send SMS text messages to users who have explicitly given us permission to do so</li>
+	<li>To Process for other purposes for which we obtain your consent.</li>
+</ul>
+
+<h4>How long do we keep your data?</h4>
+<p>We retain different types of personally identifiable information for various periods of time, depending on the purposes for processing the information, our legitimate business purposes, as well as in accordance with legal requirements under the applicable law.</p>
+
+<p>For example, we will need to keep the information about the payment transactions that you made for several years due to tax related requirements, for accounts settling, record keeping, archiving and legal issues.</p>
+
+<p>We will also maintain your contact details to help us stay in contact with you.</p>
+
+<h4>You Have Choices Regarding Your Data</h4>
+<p>If you no longer wish to receive future periodic emails from us, you can unsubscribe at any time.</p>
+
+<p>If you receive a marketing email from us, sent from an email marketing platform, it should have a clear unsubscribe link at the bottom of the email. You may also contact our office using the information below to be taken off our mailing list.</p>
+
+<p>With respect to keeping your account information current, you may update, correct, or delete information that you provided to us by contacting us at any time using the contact information provided on this page.</p>
+
+<h4>Right to Request Data</h4>
+<p>You have a right to know what online data we have collected about you. If you would like to request this data, please contact [Company Name] and we will respond within 30 days. We will use a verification process to validate your request based on your email address.</p>
+
+<h4>Right to Erase Your Data</h4>
+<p>You have the right to request that we erase any data that we have collected about you from our Platform. If you would like to request erasure of your data, please contact [Company Name] and we will respond within 30 days. We will use a verification process to validate your request based on your email address.</p>
+
+<h4>CCPA Consumer Rights</h4>
+<p>If you are a resident of the state of California, your residency guarantees the following rights in regards to your personal data.</p>
+<ul>
+	<li>The right to know what data is being collected.</li>
+	<li>The right to delete your personal information that has been collected.</li>
+	<li>The right to opt out of selling your personal data to third parties.</li>
+	<li>The right to not be discriminated against for exercising your rights.</li>
+</ul>
+
+<h4>What categories of information do we collect?</h4>
+<p>We collect identifiers, commercial information, internet activity, geolocation data, employment information, and inferences about personal preferences and attributes drawn from profiling as outlined above in the Anonymous Log Data, Anonymous Traffic Data and Lead Data sections above.</p>
+
+<h4>What categories of “business purposes” is my information used for?</h4>
+<p>We use your information for the following categories, auditing, security, debugging, performing services, internal research and testing/improvement. As outlined below in “Do we disclose any information to outside parties?”</p>
+
+<h4>Your right to nondiscrimination.</h4>
+<p>[Company Name] will not discriminate against you for exercising your CCPA rights. However we may not be able to provide goods or perform services without your personal information or other information related to your account.</p>
+
+<h4>How do I submit a request to exercise my CCPA rights?</h4>
+<p>Please contact us by emailing [Company Email] or calling [Company Phone] and we will respond within 30 days.</p>
+
+<h4>How do we protect your information?</h4>
+<p>We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+
+<h4>SSL Technology</h4>
+<p>We may offer the use of a secure server. All supplied sensitive information is transmitted via Secure Socket Layer (SSL) technology. Any payment information is submitted and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+Despite its use of encryption, [Company Name] cannot guarantee any method of transmission of information over the internet is 100% secure.</p>
+
+<h4>What happens in case of a data breach?</h4>
+<p>In the event of a data breach, our Data Protection Officer will implement our Data Breach Response Plan, which is available upon written request.</p>
+
+<h4>Do we disclose any information to outside parties?</h4>
+<p>We generally do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. One exception is for trusted third parties who assist us in operating our Platform or conducting our business (Data Processors), or assist us in providing services to you. Each third party is solely responsible for having their own compliant privacy policies and terms of service. 
+One further exception may occur in the event that we dispose of or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</p>
+<p>If [Company Name] or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</p>
+<p>A list of third parties that have access to your data is available upon request. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+
+<h4>Do we sell your information to outside parties?</h4>
+<p>[Company Name] has not sold any personal information data in the last 12 months.</p>
+
+<h4>International Transfer of Data</h4>
+<p>[Company Name] is a U.S. company and stores your information in the U.S. [Company Name] may disclose or transfer your personal information to countries other than the country in which you live, for purposes described above. Whenever [Company Name] transfers personal information originating from the EEA to other countries not deemed adequate under applicable data protection law, it will do so on the basis of the EU Standard Contractual Clauses.</p>
+
+<h4>Third party links</h4>
+<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+
+<h4>Children’s Online Privacy Protection Act Compliance</h4>
+<p>We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+
+<h4>Terms and Conditions</h4>
+<p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at {TERMS_URL}</p>
+
+<h4>Changes to our Privacy Policy</h4>
+<p>We reserve the right to change our privacy policy from time to time at our discretion. We will post those changes on this page.</p>
+
+<h4>Contacting Us</h4>
+<p>If there are any questions regarding this privacy policy, requesting your data, or deleting your data, you may contact us using the information below.</p>
+<p>
+[Company Name]<br />
+[Company Address]<br />
+[Company Email]<br />
+[Company Phone]
+</p>

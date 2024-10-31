@@ -1,0 +1,28 @@
+<pre style="text-align:center;padding:1em;background:rgba(0,0,0,.05);"><em>Revised Date: <strong>{COOKIE_REVISED}</strong></em>
+<span style="font-size:11px;width:100%;white-space:break-spaces;">Unless otherwise stated, this policy is to be assumed to be effective and valid from January 1st, {CURYEAR} to December 31st, {CURYEAR}.</pre>
+
+<h4>What Are We Doing?</h4>
+<p>To help us make {SITE_URL} a positive place for everyone, we've been using the <a href="https://www.w3.org/TR/WCAG/" target="_blank">Web Content Accessibility Guidelines (WCAG) 2.1</a>. These guidelines explain how to make web content more accessible for people with disabilities, and user-friendly for everyone.</p>
+<p>The guidelines have three levels of accessibility (A, AA and AAA). We've chosen Level A as the base target for {SITE_URL}</p>
+
+<h4>How Are We Doing?</h4>
+<p>We've worked hard on {SITE_URL} and believe we've achieved our goal of Level A accessibility. We monitor the website regularly to maintain this, but if you do find any problems, please get in touch through any means you are able.</p>
+
+<h4>Let Us Know What You Think</h4>
+<p>If you enjoyed using {SITE_URL}, or if you had trouble with any part of it, please get in touch. We'd like to hear from you in any of the following ways:</p>
+<ul>
+    <li>Email Us: <a href="mailto:[Company Email]">[Company Email]</a></li>
+    <li>Call Us: <a href="mailto:[Company Phone]">[Company Phone]</a></li>
+    <li>Mail or Visit us: [Company Address]</li>
+</ul>
+
+<h4>Accessibility References</h4>
+<ul>
+    <li><a target="_blank" href="https://www.nomensa.com/blog/writing-an-accessibility-statement">https://www.nomensa.com/blog/writing-an-accessibility-statement</a></li>
+    <li><a target="_blank" href="https://www.accessibilitystatementgenerator.com/1786f12d2adb698443324a34a83fd9e2455e1598/">https://www.accessibilitystatementgenerator.com/1786f12d2adb698443324a34a83fd9e2455e1598/</a></li>
+    <li><a target="_blank" href="https://www.accessibility.works/blog/web-accessibility-policy-statements-best-practices/">https://www.accessibility.works/blog/web-accessibility-policy-statements-best-practices/</a></li>
+    <li><a target="_blank" href="https://www.w3.org/WAI/planning/statements/">https://www.w3.org/WAI/planning/statements/</a></li>
+    <li><a target="_blank" href="https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize#hiddensc">https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize#hiddensc</a></li>
+    <li><a target="_blank" href="https://www.w3.org/WAI/planning/statements/generator/#preview">https://www.w3.org/WAI/planning/statements/generator/#preview</a></li>
+    <li><a target="_blank" href="https://nda.ie/resources/accessibility-toolkit/make-your-websites-more-accessible/">https://nda.ie/resources/accessibility-toolkit/make-your-websites-more-accessible/</a></li>
+</ul> 

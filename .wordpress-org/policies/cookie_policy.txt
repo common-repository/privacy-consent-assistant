@@ -1,0 +1,15 @@
+<pre style="text-align:center;padding:1em;background:rgba(0,0,0,.05);"><em>Revised Date: <strong>{COOKIE_REVISED}</strong></em>
+<span style="font-size:11px;width:100%;white-space:break-spaces;">Unless otherwise stated, this policy is to be assumed to be effective and valid from January 1st, {CURYEAR} to December 31st, {CURYEAR}.</pre>
+
+<h2>What Cookies We Use</h2>
+<p>This website uses cookies. We use cookies to personalize content, provide social media features, and mostly to analyse our traffic. We share information about the traffic on our website with our marketing and website partners who may combine it with information that you've provided to them, or that they've collected from your use of their services. You consent to receive our cookies if you continue to use this website.</p>
+
+<h2>Your Consent</h2>
+<p>By continuing to use this website, you agree to receive our cookies. These cookies will not be used maliciously and may be removed at any time. By closing the Consent Bar we need to set a cookie that lets us know you've closed it. If any of our policies get updated, you'll need to reconsent to these policies, which means the Consent Bar at the bottom of this website may come back intermittently.</p>
+
+<h2>Useful Links</h2>
+<p>Here are some helpful links to read more about what cookies are and how they are used:</p>
+
+<p><a target="_blank" href="https://cookies.insites.com/about-cookies/">About Cookies</a><br /><a target="_blank" href="https://cookies.insites.com/disable-cookies/">Disabling Cookies</a></p>
+
+<p>If these links no longer work, please contact us at <a href="mailto:[Company Email]?subject=Cookie Links Stopped Working" target="_blank">[Company Email]</a></p>
